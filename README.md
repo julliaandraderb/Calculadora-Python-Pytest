@@ -26,4 +26,4 @@ Foram implementados **13 testes** para verificar diferentes cenários:
 
 ### Resultado
 <img width="864" height="267" alt="image" src="https://github.com/user-attachments/assets/e2209e28-53c5-4a8d-8068-fdd6c54f752a" />
-Todos os 13 testes foram executados com sucesso utilizando o Pytest.
+###Todos os 13 testes foram executados com sucesso utilizando o Pytest.
